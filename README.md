@@ -47,4 +47,4 @@ http://nlp.stanford.edu/data/glove.6B.zip
  
 للمزيد من المعلومات يرجى قراءة المقال كاملاً على منصة الذكاء الصناعي باللغة العربية
 
-aiinarabic.com
+https://aiinarabic.com/sentiment-analysis-using-deep-learning/
